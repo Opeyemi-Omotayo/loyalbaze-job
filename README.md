@@ -9,4 +9,4 @@ React
 css
 
 ### Product
-Product displayed : [https:loyal-baze.web.app](Loyal Website)
+Product displayed : [Loyal Website](https:loyal-baze.web.app)
