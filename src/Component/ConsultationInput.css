@@ -1,0 +1,58 @@
+.consultation{
+    background-color: #1D2939;
+    width: 33rem;
+    height: 40rem;
+    border-radius: 5px;
+}
+
+.book-a-consultation-with-us{
+    color: white;
+    font-size: 25px;
+    margin-left: 3rem;
+}
+
+.flex-col-3{
+    display: flex;
+    float: right;
+    background-color: #011e47;
+}
+
+.inputt{
+    width: 25rem;
+    padding-left: 10px;
+    height: 35px;
+    border-radius: 8px;
+   margin-left: 3rem;
+   color: black;
+    margin-bottom: 2rem;
+    border: 1px solid white;
+    background-color: #1D2939;
+}
+
+.star-10 {
+    height: 52px;
+    right: 10rem;
+    position: absolute;
+    top: 94rem;
+    width: 40px;
+  }
+
+.message{
+    height: 105px;
+}
+
+.send-request{
+    align-items: flex-start;
+    background: linear-gradient(180deg, rgb(84.06, 3.61, 255) 0%, rgba(189.19, 59.08, 210.37, 0.94) 81.9%);
+    border-radius: 100px;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    height: 30px;
+    width: 17rem;
+    padding-left: 9rem;
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+    margin-left: 3rem;
+}

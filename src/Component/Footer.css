@@ -1,0 +1,73 @@
+.footer {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    gap: 23px;
+    height: auto;
+    justify-content: flex-start;
+    min-height: 68px;
+    margin-top: 5rem;
+    width: 100%;
+    background-color: #011e47;
+  }
+  
+  .line-14 {
+    height: 1px;
+    width: 1240px;
+    margin-left: 3rem;
+  }
+  
+  .flex-row-4 {
+    align-items: center;
+    display: flex;
+    margin-left: 0;
+    min-width: 1240px;
+  }
+  
+  .frame-1000004217 {
+    align-items: flex-start;
+    display: flex;
+    gap: 16px;
+    height: 44px;
+    margin-left: 2rem;
+    min-width: 327px;
+  }
+  
+  .x2nd-floor-the-garne {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    width: 287px;
+    color: white;
+  }
+  
+  .loyalbaze-is-almost-here {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 1.0px;
+    margin-left: 178px;
+    min-height: 27px;
+    min-width: 231px;
+    color: white;
+    text-align: center;
+  }
+  
+  .frame-1000004218 {
+    align-items: flex-start;
+    display: flex;
+    gap: 12px;
+    margin-left: 310px;
+    min-width: 194px;
+  }
+  
+  .phone {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    color: white;
+    width: 158px;
+  }
+  
+  

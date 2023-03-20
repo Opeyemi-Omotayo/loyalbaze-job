@@ -1,13 +1,42 @@
+
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:700");
+
+
+@font-face {
+  font-family: "Satoshi-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("static/fonts/Satoshi-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "Satoshi-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("static/fonts/Satoshi-Black.otf") format("opentype");
+}
+@font-face {
+  font-family: "Satoshi-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("static/fonts/Satoshi-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Satoshi-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("static/fonts/Satoshi-Medium.woff") format("woff");
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #011e47;
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

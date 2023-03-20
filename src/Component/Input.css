@@ -1,0 +1,36 @@
+.frame-100000420-1 {
+    align-items: flex-start;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    height: 15px;
+    min-width: 300px;
+    padding: 13px 12px;
+    border: solid 1px #000f24;
+  }
+
+  .input{
+    background-color: #011e47;
+    border: none;
+    height: 18px;
+    min-width: 270px;
+  }
+  
+  .icon-1 {
+    align-self: center;
+    height: 24px;
+    width: 24px;
+  }
+  
+  .tell-us-your-name {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 22px;
+    min-width: 122px;
+    text-align: center;
+    color: white;
+  }
+  
+  .frame-100000420-1.frame-100000420 .tell-us-your-name {
+    min-width: 173px;
+  }

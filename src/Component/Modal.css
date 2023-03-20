@@ -1,0 +1,34 @@
+.modal{
+    z-index: 100;
+  position: fixed;
+  top: 19.5vh;
+  left: 24.5rem;
+  height: 350px;
+  text-align: center;
+  width: 38%;
+  background: #101720;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 8px;
+}
+
+.icon-10{
+    margin-top: 3rem;
+    width: 60px;
+    height: 60px;
+    border-radius: 40%;
+    background-color: green;
+}
+
+.modal-text{
+    margin-top: 4.5rem;
+    text-align: center;
+    color: white;
+}
+
+.modal-text-p{
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-top: 1rem;
+    text-align: center;
+    color: white;
+}
